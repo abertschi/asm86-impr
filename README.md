@@ -2,7 +2,7 @@
 
 This is my fork of the great asm86-mode for Emacs.
 
-All credit goes to the author of asm86-mode, Gabe Wenz. See header section of file.  
+All credit goes to the original author of asm86-mode, Gabe Wenz. See header section of source file.  
 GNU General Public License v2
 
 Added Changes:
